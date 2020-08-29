@@ -1,7 +1,7 @@
-SGI v1.0
-========
+Spin Glass Ising
+================
 
-SGI (Spin Glass Ising) is a Cython program for running 2D Ising Model Simulations
+SGI is a Cython program for running 2D Ising Model Simulations
 of Spin Glasses with Bimodal Frustration using the Edwards-Anderson Model.
 
 
